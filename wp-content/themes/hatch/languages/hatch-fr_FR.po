@@ -1,0 +1,1145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hatch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-03 16:05+0200\n"
+"PO-Revision-Date: 2015-02-19 23:01+0100\n"
+"Last-Translator: Galin Simeonov <galin@alienwp.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr__;esc_attr_e;"
+"esc_html__;esc_html_e;_n\n"
+"X-Poedit-Basepath: ../\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/404.php:27
+msgid "Not Found"
+msgstr "Non trouv&eacute;"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/404.php:32
+#, php-format
+msgid ""
+"You tried going to %1$s, and it doesn't exist. All is not lost! You can "
+"search for what you're looking for."
+msgstr ""
+"Vous avez essay&eacute; d&apos;atteindre %1$s, mais cette ressource n&apos;"
+"hexiste pas."
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/attachment.php:44
+#, php-format
+msgid "Download &quot;%1$s&quot;"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/attachment.php:51
+#: c:\wamp\www\cell\wp-content\themes\hatch/page-template-archives.php:34
+#: c:\wamp\www\cell\wp-content\themes\hatch/page-template-bookmarks.php:34
+#: c:\wamp\www\cell\wp-content\themes\hatch/page-template-fullwidth.php:34
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/attachment.php:52
+#: c:\wamp\www\cell\wp-content\themes\hatch/page-template-archives.php:48
+#: c:\wamp\www\cell\wp-content\themes\hatch/page-template-bookmarks.php:50
+#: c:\wamp\www\cell\wp-content\themes\hatch/page-template-fullwidth.php:35
+msgid "Pages:"
+msgstr "Pages :"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/comment.php:30
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente d&apos;approbation."
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/comments.php:25
+msgid "No Responses"
+msgstr "Aucune r&eacute;ponse"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/comments.php:25
+msgid "One Response"
+msgstr "Une r&eacute;ponse"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/comments.php:25
+msgid "% Responses"
+msgstr "% R&eacute;ponses"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/comments.php:46
+#, php-format
+msgid ""
+"Comments are closed, but <a href=\"%1$s\" title=\"Trackback URL for this post"
+"\">trackbacks</a> and pingbacks are open."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/comments.php:52
+msgid "Comments are closed."
+msgstr "Commentaires indisponibles."
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:190
+#: c:\wamp\www\cell\wp-content\themes\hatch/loop-nav.php:28
+msgid "&larr; Previous"
+msgstr "&larr; Pr&eacute;c&eacute;dent"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:191
+#: c:\wamp\www\cell\wp-content\themes\hatch/loop-nav.php:28
+msgid "Next &rarr;"
+msgstr "Suivant &rarr;"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:217
+msgid "(Untitled)"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:267
+msgid "*"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:272
+msgid "Name"
+msgstr "Nom"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:273
+msgid "Email"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:274
+msgid "Website"
+msgstr "Site web"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:279
+msgid "Comment"
+msgstr "Commentaire"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:280
+#, php-format
+msgid ""
+"You must be <a href=\"%1$s\" title=\"Log in\">logged in</a> to post a "
+"comment."
+msgstr ""
+"Vous devez <a href=\"%1$s\" title=\"Log in\">&ecirc;tre connect&eacute;</a> "
+"pour laisser un commentaire."
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:281
+#, php-format
+msgid "Logged in as <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+msgstr "Connect&eacute; en tant que <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:281
+msgid "Log out of this account"
+msgstr "Se d&eacute;connecter"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:281
+msgid "Log out &rarr;"
+msgstr "Se d&eacute;connecter &rarr;"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:286
+msgid "Leave a Reply"
+msgstr "R&eacute;pondre"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:287
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Répondre à %s"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:288
+msgid "Click here to cancel reply."
+msgstr "Annuler la r&eacute;ponse."
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:289
+msgid "Post Comment &rarr;"
+msgstr "Laisser un commentaire &rarr;"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:301
+msgid "Copyright &#169; [the-year] [site-link]"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/functions.php:301
+msgid "Powered by [wp-link] and [theme-link]"
+msgstr "Propulsé par [wp-link] et [theme-link]"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/loop-error.php:15
+msgid "Apologies, but no entries were found."
+msgstr "Aucun &eacute;l&eacute;ment trouv&eacute;"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/loop-nav.php:16
+msgid "&larr; Return to entry"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/loop-nav.php:22
+#: c:\wamp\www\cell\wp-content\themes\hatch/loop-nav.php:23
+msgid "%link"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/page-template-archives.php:36
+msgid "Archives by category"
+msgstr "Archives par cat&eacute;gories"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/page-template-archives.php:39
+msgid "RSS"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/page-template-archives.php:42
+msgid "Archives by month"
+msgstr "Archives par mois"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/post.php:39
+msgid "[entry-published before=\"Date: \"]"
+msgstr "[entry-published before=\"Date : \"]"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/post.php:41
+msgid "[entry-author before=\"Author: \"]"
+msgstr "[entry-author before=\"Auteur : \"]"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/post.php:43
+msgid "Category: [entry-terms taxonomy=\"category\"]"
+msgstr "Cat&eacute;gorie : [entry-terms taxonomy=\"category\"]"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/post.php:45
+msgid "[entry-terms taxonomy=\"post_tag\" before=\"Tags: \"]"
+msgstr "[entry-terms taxonomy=\"post_tag\" before=\"Tags : \"]"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/post.php:47
+msgid "[entry-edit-link]"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/search.php:44
+msgid "[entry-published] [entry-author]"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/searchform.php:15
+msgid "Search this site..."
+msgstr "Rechercher ..."
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/searchform.php:16
+msgid "Search"
+msgstr "Rechercher"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/singular.php:34
+msgid "By [entry-author] on [entry-published] [entry-edit-link before=\" | \"]"
+msgstr ""
+"Par [entry-author] sur [entry-published] [entry-edit-link before=\" | \"]"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:36
+msgid "General settings"
+msgstr "Configuration g&eacute;n&eacute;rale"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:54
+msgid "Favicon:"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:60
+msgid "Upload favicon image (recommended max size: 32x32)."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:72
+msgid "Logo:"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:78
+msgid "Upload logo image (recommended max width: 200px)."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:90
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/meta-box-theme-about.php:77
+msgid "Author:"
+msgstr "Auteur :"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:108
+msgid "Whose biography to display on the home page?"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:116
+msgid "Font family:"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:120
+msgid "Arial"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:121
+msgid "Verdana"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:122
+msgid "Bitter"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:123
+msgid "Georgia"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:124
+msgid "Droid Serif"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:125
+msgid "Helvetica"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:126
+msgid "Istok Web"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:127
+msgid "Lucida Sans Unicode"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:128
+msgid "Droid Sans"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:136
+msgid "Font size:"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:140
+msgid "default"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:141
+msgid "17"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:142
+msgid "16"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:143
+msgid "15"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:144
+msgid "14"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:146
+msgid "The base font size in pixels."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:153
+msgid "Link color:"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:158
+msgid "Set the theme link color."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:165
+msgid "Custom CSS:"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:169
+msgid ""
+"Add your custom CSS here. It would overwrite any default or custom theme "
+"settings."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/admin/functions-admin.php:204
+msgid "Use this Image"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/meta-box-post-seo.php:37
+msgid "SEO"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/meta-box-post-seo.php:70
+msgid "Document Title:"
+msgstr "Nom du document :"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/meta-box-post-seo.php:76
+msgid "Meta Description:"
+msgstr "Description meta :"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/meta-box-post-seo.php:82
+msgid "Meta Keywords:"
+msgstr "Mots clefs : "
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/meta-box-post-template.php:36
+msgid "Template"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/meta-box-post-template.php:87
+msgid "No templates exist for this post type."
+msgstr "Aucun template défini pour ce type de post"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/meta-box-theme-about.php:31
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/meta-box-theme-about.php:36
+#, php-format
+msgid "About %1$s"
+msgstr "A propos de %1$s"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/meta-box-theme-about.php:61
+msgid "Theme:"
+msgstr "Th&egrave;me :"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/meta-box-theme-about.php:69
+msgid "Version:"
+msgstr "Version :"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/meta-box-theme-about.php:85
+msgid "Description:"
+msgstr "Description :"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/meta-box-theme-footer.php:29
+msgid "Footer settings"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/meta-box-theme-footer.php:52
+msgid ""
+"You can add custom <acronym title=\"Hypertext Markup Language\">HTML</"
+"acronym> and/or shortcodes, which will be automatically inserted into your "
+"theme."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/theme-settings.php:47
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/theme-settings.php:168
+#, php-format
+msgid "%1$s Theme Settings"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/theme-settings.php:48
+msgid "Theme Settings"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/theme-settings.php:185
+msgid "Update Settings"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/theme-settings.php:236
+msgid "Documentation"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/admin/theme-settings.php:240
+msgid "Support"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:32
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"archives."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:44
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:141
+msgid "Archives"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:79
+msgid "Select Year"
+msgstr "S&eacute;l&eacute;ctionner l&apos;ann&eacute;e"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:82
+msgid "Select Month"
+msgstr "S&eacute;l&eacute;ctionner le mois"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:85
+msgid "Select Week"
+msgstr "S&eacute;l&eacute;ctionner la semaine"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:88
+msgid "Select Day"
+msgstr "S&eacute;l&eacute;ctionner le jour"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:91
+msgid "Select Post"
+msgstr "S&eacute;l&eacute;ctionner le post"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:154
+msgid "Alphabetical"
+msgstr "Alphab&eacute;tique"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:154
+msgid "Daily"
+msgstr "Quotidien"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:154
+msgid "Monthly"
+msgstr "Mensuel"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:154
+msgid "Post By Post"
+msgstr "Post par Post"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:154
+msgid "Weekly"
+msgstr "Hebdomadaire"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:154
+msgid "Yearly"
+msgstr "Annuel"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:157
+msgid "Custom"
+msgstr "Personnalis&eacute;"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:157
+msgid "HTML"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:157
+msgid "Option"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:162
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:143
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:180
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-calendar.php:108
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:168
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-nav-menu.php:133
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-pages.php:164
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-search.php:143
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-tags.php:180
+msgid "Title:"
+msgstr "Titre :"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-archives.php:198
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:191
+msgid "Show post count?"
+msgstr "Afficher le nombre de posts ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:32
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"author lists."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:44
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:119
+msgid "Authors"
+msgstr "Auteurs"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:136
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:171
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:173
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:160
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-pages.php:155
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-tags.php:172
+msgid "Ascending"
+msgstr "Ascendant"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:136
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:171
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:173
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:160
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-pages.php:155
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-tags.php:172
+msgid "Descending"
+msgstr "Descendant"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:137
+msgid "Display Name"
+msgstr "Afficher par nom"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:137
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:172
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:174
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:161
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-pages.php:156
+msgid "ID"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:137
+msgid "Nice Name"
+msgstr "Nom correct"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:137
+msgid "Post Count"
+msgstr "Nombre de posts"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:137
+msgid "Registered"
+msgstr "Enregistr&eacute;"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:137
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:174
+msgid "URL"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:137
+msgid "Login"
+msgstr "Connexion"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:169
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:159
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-tags.php:171
+msgid "List"
+msgstr "Liste"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:169
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:159
+msgid "None"
+msgstr "Aucun"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:187
+msgid "<acronym title=\"Hypertext Markup Language\">HTML</acronym>?"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:195
+msgid "Exclude admin?"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:199
+msgid "Show full name?"
+msgstr "Afficher le nom complet ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-authors.php:203
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:279
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-tags.php:299
+msgid "Hide empty?"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:32
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"bookmarks (links)."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:44
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:78
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:141
+msgid "Bookmarks"
+msgstr "Favoris"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:172
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:161
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-tags.php:173
+msgid "Count"
+msgstr "Nombre"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:172
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:161
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-pages.php:156
+msgid "Slug"
+msgstr "Ajourner"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:174
+msgid "Description"
+msgstr "Description"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:174
+msgid "Length"
+msgstr "Taille"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:174
+msgid "Notes"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:174
+msgid "Owner"
+msgstr "Propri&eacute;taire"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:174
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-tags.php:172
+msgid "Random"
+msgstr "Al&eacute;atoire"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:174
+msgid "Rating"
+msgstr "Notation"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:174
+msgid "Rel"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:174
+msgid "Target"
+msgstr "Cible"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:174
+msgid "Updated"
+msgstr "Mis &agrave; jour"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:282
+msgid "Categorize?"
+msgstr "Cat&eacute;gotis&eacute; ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:286
+msgid "Show description?"
+msgstr "Afficher la description ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:290
+msgid "Hide invisible?"
+msgstr "Cacher les invisibles ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:294
+msgid "Show rating?"
+msgstr "Afficher la notation ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:298
+msgid "Show updated?"
+msgstr "Afficher les mises à jour ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:302
+msgid "Show images?"
+msgstr "Afficher les images ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:306
+msgid "Show name?"
+msgstr "Afficher le nom ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-bookmarks.php:310
+msgid "Show private?"
+msgstr "Afficher les priv&eacute;s ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-calendar.php:32
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"calendar."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-calendar.php:44
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-calendar.php:99
+msgid "Calendar"
+msgstr "Calendrier"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-calendar.php:113
+msgid "One-letter abbreviation?"
+msgstr "Abbr&eacute;viation sur une lettre ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:32
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"category links."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:44
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:131
+msgid "Categories"
+msgstr "Cat&eacute;gories"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:161
+msgid "Term Group"
+msgstr "Groupe de termes"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:162
+msgid "Atom"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:162
+msgid "RDF"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:162
+msgid "RSS 2.0"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:267
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-pages.php:267
+msgid "Hierarchical?"
+msgstr "Hi&eacute;rarchie ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:271
+msgid "Use description?"
+msgstr "Utiliser la description ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-categories.php:275
+msgid "Show count?"
+msgstr "Afficher le nombre ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-nav-menu.php:32
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"menus."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-nav-menu.php:44
+msgid "Navigation Menu"
+msgstr "Menu de navigation"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-nav-menu.php:109
+msgid "Navigation"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-pages.php:32
+msgid ""
+"An advanced widget that gives you total control over the output of your page "
+"links."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-pages.php:44
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-pages.php:127
+msgid "Pages"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-pages.php:156
+msgid "Author"
+msgstr "Auteur"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-pages.php:156
+msgid "Date"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-pages.php:156
+msgid "Menu Order"
+msgstr "Ordre du menu"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-pages.php:156
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-pages.php:157
+msgid "Modified"
+msgstr "Modifi&eacute;"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-pages.php:156
+msgid "Title"
+msgstr "Titre"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-pages.php:157
+msgid "Created"
+msgstr "Cr&eacute;&eacute;"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-search.php:33
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"search form."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-search.php:147
+msgid "Search Label:"
+msgstr "Rechercher un titre ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-search.php:151
+msgid "Search Text:"
+msgstr "Rechercher du texte ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-search.php:158
+msgid "Search Submit:"
+msgstr "Rechercher le contenu :"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-search.php:163
+msgid "Use theme's <code>searchform.php</code>?"
+msgstr "Utiliser le th&egrave;me de <code>searchform.php</code> ?"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-tags.php:32
+msgid ""
+"An advanced widget that gives you total control over the output of your tags."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-tags.php:44
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-tags.php:141
+msgid "Tags"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-tags.php:170
+msgid "View"
+msgstr "Vue"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-tags.php:170
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:384
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:417
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:432
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:460
+msgid "Edit"
+msgstr "&Eacute;diter"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-tags.php:171
+msgid "Flat"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/classes/widget-tags.php:295
+msgid "Pad counts?"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:42
+msgid "Browse:"
+msgstr "Parcourir :"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:45
+msgid "Home"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:296
+msgid "g:i a"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:299
+#, php-format
+msgid "Minute %1$s"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:299
+msgid "i"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:302
+msgid "g a"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:313
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:319
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:324
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:329
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:516
+msgid "Y"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:314
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:325
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:520
+msgid "F"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:315
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:524
+msgid "d"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:320
+#, php-format
+msgid "Week %1$s"
+msgstr "Semaine %1$s"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:320
+msgid "W"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:336
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:340
+msgid "404 Not Found"
+msgstr "404 aucune ressource disponible"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:409
+msgid "Split"
+msgstr "S&eacute;parer"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:413
+msgid "Merge"
+msgstr "Fusionner"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:520
+msgid "F Y"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/breadcrumb-trail.php:524
+msgid "F j, Y"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/custom-field-series.php:86
+msgid "Articles in this series"
+msgstr "Articles de cette s&eacute;rie"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/custom-field-series.php:212
+msgid "Series"
+msgstr "S&eacute;ries"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/post-stylesheets.php:255
+msgid "Stylesheet"
+msgstr "Feuille de style"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/theme-layouts.php:295
+msgid "Default"
+msgstr "Défaut"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/theme-layouts.php:296
+msgid "One Column"
+msgstr "1 colonne"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/theme-layouts.php:297
+msgid "Two Columns, Left"
+msgstr "2 colonnes, Gauche"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/theme-layouts.php:298
+msgid "Two Columns, Right"
+msgstr "2 colonnes, Droite"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/theme-layouts.php:299
+msgid "Three Columns, Left"
+msgstr "3 colonnes, Gauche"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/theme-layouts.php:300
+msgid "Three Columns, Right"
+msgstr "3 colonnes, Droite"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/theme-layouts.php:301
+msgid "Three Columns, Center"
+msgstr "3 colonnes, Centre"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/theme-layouts.php:377
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/theme-layouts.php:485
+msgid "Layout"
+msgstr "Disposition"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/extensions/theme-layouts.php:404
+msgid "Layout is a theme-specific structure for the single view of the post."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/comments.php:197
+msgid "Log out &raquo;"
+msgstr "D&eacute;connexion &raquo;"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/comments.php:205
+msgid "Post Comment"
+msgstr "Laisser un commentaire"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/context.php:419
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/context.php:425
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/context.php:428
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/context.php:434
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/context.php:437
+#, php-format
+msgid "Archive for %1$s"
+msgstr "Archive pour %1$s"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/context.php:422
+#, php-format
+msgid "Archive for minute %1$s"
+msgstr "Archive de la minute %1$s"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/context.php:428
+msgid "F jS, Y"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/context.php:431
+#, php-format
+msgid "Archive for week %1$s of %2$s"
+msgstr "Archives de la semaine %1$s de %2$s"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/context.php:456
+#, php-format
+msgid "%1$s Page %2$s"
+msgstr "%1$s page sur %2$s"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/core-seo.php:93
+#, php-format
+msgid "Copyright (c) %1$s"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/core-seo.php:112
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:218
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:373
+msgid "l, F jS, Y, g:i a"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/deprecated.php:572
+#, php-format
+msgid ""
+"<code>%1$s</code> &mdash; This function has been removed or replaced by "
+"another function."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/settings.php:76
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/settings.php:80
+msgid "Copyright &#169; [the-year] [site-link]."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/settings.php:76
+msgid "Powered by [wp-link], [theme-link], and [child-link]."
+msgstr "Propuls&eacute; par [wp-link], [theme-link], et [child-link]."
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/settings.php:80
+msgid "Powered by [wp-link] and [theme-link]."
+msgstr "Propuls&eacute; par [wp-link] et [theme-link]."
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:93
+msgid "State-of-the-art semantic personal publishing platform"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:93
+msgid "WordPress"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:106
+#, php-format
+msgid "%s WordPress Theme"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:134
+msgid "Log out"
+msgstr "Se d&eacute;connecter"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:136
+msgid "Log in"
+msgstr "Se connecter"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:151
+#, php-format
+msgid "This page loaded in %1$s seconds with %2$s database queries."
+msgstr ""
+"Cette page a &eacute;t&eacute; charg&eacute; en %1$s secondes avec %2$s requ"
+"$ecirc;tes en base de donn&eacute;e"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:204
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:443
+#, php-format
+msgid "Edit %1$s"
+msgstr "Editer %1$s"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:234
+msgid "Leave a response"
+msgstr "Laisser une r&eacute;ponse"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:234
+#, php-format
+msgid "%1$s Response"
+msgstr "%1$s r&eacute;ponses"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:234
+#, php-format
+msgid "%1$s Responses"
+msgstr "%1$s R&eacute;ponses"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:241
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:243
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:245
+#, php-format
+msgid "Comment on %1$s"
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:321
+msgid "Shortlink"
+msgstr "Raccourci"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:345
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:422
+msgid "Permalink"
+msgstr "Lien permanent"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:373
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s &agrave; %2$s"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:422
+#, php-format
+msgid "Permalink to comment %1$s"
+msgstr "Lien permanent vers le commentaire %1$s"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:462
+msgid "Reply"
+msgstr "R&eacute;pondre"
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/shortcodes.php:463
+msgid "Log in to reply."
+msgstr "Connectez-vous pour r&eacute;pondre."
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/sidebars.php:82
+msgid "The main (primary) widget area, most often used as a sidebar."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/sidebars.php:86
+msgid ""
+"The second most important widget area, most often used as a secondary "
+"sidebar."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/sidebars.php:90
+msgid "A widget area loaded in the footer of the site."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/sidebars.php:94
+msgid "Displayed within the site's header area."
+msgstr ""
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/sidebars.php:98
+msgid "Loaded before the page's main content area."
+msgstr "Charg&eacute; avant le contenu principal."
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/sidebars.php:102
+msgid "Loaded after the page's main content area."
+msgstr "Charg&eacute; apr&egrave;s le contenu principal."
+
+#: c:\wamp\www\cell\wp-content\themes\hatch/library/functions/sidebars.php:106
+msgid ""
+"Loaded on singular post (page, attachment, etc.) views before the comments "
+"area."
+msgstr ""
