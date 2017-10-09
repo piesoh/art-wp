@@ -28,7 +28,7 @@ define('DB_USER', getenv('MYSQL_USER'));
 define('DB_PASSWORD', getenv('MYSQL_PASSWORD'));
 
 /** Adresse de l'hébergement MySQL. */
-define('DB_HOST', getenv('MYSQL_PORT_3306_TCP_ADDR').':'.getenv('MYSQL_PORT_3306_TCP_PORT'));
+define('DB_HOST', getenv('MYSQL_SERVICE_HOST').':'.getenv('MYSQL_SERVICE_PORT'));
 //define('DB_HOST', 'localhost');
 
 /** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
